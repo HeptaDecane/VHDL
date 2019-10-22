@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/near/VHDL/AsyncUPStructural/TEST_ASYNC_UP_isim_beh.exe" -prj "/home/near/VHDL/AsyncUPStructural/TEST_ASYNC_UP_beh.prj" "work.TEST_ASYNC_UP" 

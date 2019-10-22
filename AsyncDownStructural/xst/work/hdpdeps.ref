@@ -1,0 +1,13 @@
+V3 7
+FL /home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.vhd 2019/10/22.16:27:23 P.20131013
+EN work/ASYNC_DOWN 1571742951 \
+      FL /home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ASYNC_DOWN/STRUCTURAL 1571742952 \
+      FL /home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.vhd EN work/ASYNC_DOWN 1571742951 \
+      CP JK_FF
+FL /home/near/VHDL/AsyncDownStructural/JK_FF.vhd 2019/10/22.16:24:29 P.20131013
+EN work/JK_FF 1571742986 FL /home/near/VHDL/AsyncDownStructural/JK_FF.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/JK_FF/BEHAVIORAL 1571742987 \
+      FL /home/near/VHDL/AsyncDownStructural/JK_FF.vhd EN work/JK_FF 1571742986

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2019-10-22T15:13:04</DateModified>
+  <DateModified>2019-10-22T16:29:31</DateModified>
   <ModuleName>ASYNC_UP</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/home/near/VHDL/AsyncUPStructural/iseconfig/ASYNC_UP.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/near/VHDL/AsyncUPStructural</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/near/VHDL/AsyncUPStructural/</ImplementationReportsDirectory>
   <DateInitialized>2019-10-22T15:13:04</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

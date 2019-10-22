@@ -1,0 +1,6 @@
+EN async_down NULL /home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.vhd sub00/vhpl04 1571742951
+EN jk_ff NULL /home/near/VHDL/AsyncDownStructural/JK_FF.vhd sub00/vhpl00 1571742986
+AR async_up structural /home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.vhd sub00/vhpl03 1571741769
+AR jk_ff behavioral /home/near/VHDL/AsyncDownStructural/JK_FF.vhd sub00/vhpl01 1571742987
+EN async_up NULL /home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.vhd sub00/vhpl02 1571741768
+AR async_down structural /home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.vhd sub00/vhpl05 1571742952

@@ -1,0 +1,3 @@
+vhdl isim_temp "JK_FF.vhd"
+vhdl isim_temp "ASYNC_DOWN.vhd"
+vhdl isim_temp "TEST_ASYNC_DOWN.vhd"

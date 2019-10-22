@@ -1,0 +1,3 @@
+vhdl work "JK_FF.vhd"
+vhdl work "ASYNC_DOWN.vhd"
+vhdl work "TEST_ASYNC_DOWN.vhd"

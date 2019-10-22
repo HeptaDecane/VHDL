@@ -1,0 +1,6 @@
+V3 3
+FL /home/near/VHDL/AsyncUPStructural/JK_FF.vhd 2019/10/22.15:51:46 P.20131013
+EN work/JK_FF 1571739710 FL /home/near/VHDL/AsyncUPStructural/JK_FF.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/JK_FF/BEHAVIORAL 1571739711 \
+      FL /home/near/VHDL/AsyncUPStructural/JK_FF.vhd EN work/JK_FF 1571739710

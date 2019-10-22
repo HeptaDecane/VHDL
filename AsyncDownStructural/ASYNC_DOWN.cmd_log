@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/near/VHDL/AsyncDownStructural/ASYNC_UP.xst" -ofn "/home/near/VHDL/AsyncDownStructural/ASYNC_UP.syr" 
+xst -intstyle ise -ifn "/home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.xst" -ofn "/home/near/VHDL/AsyncDownStructural/ASYNC_DOWN.syr" 

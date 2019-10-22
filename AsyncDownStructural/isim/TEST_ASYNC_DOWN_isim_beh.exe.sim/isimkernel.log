@@ -1,0 +1,29 @@
+Command line:
+   TEST_ASYNC_DOWN_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49997
+
+Tue Oct 22 16:46:33 2019
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 196.702 Meg
+
+ Total Signals          : 34
+ Total Nets             : 23
+ Total Signal Drivers   : 14
+ Total Blocks           : 6
+ Total Primitive Blocks : 4
+ Total Processes        : 14
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 383
+Total Line Count : 36
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 272.204 Meg
+
+Tue Oct 22 16:46:58 2019
+

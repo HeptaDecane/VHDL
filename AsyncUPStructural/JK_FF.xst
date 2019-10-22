@@ -1,0 +1,5 @@
+set -tmpdir "/home/near/VHDL/AsyncUPStructural/xst/projnav.tmp"
+set -xsthdpdir "/home/near/VHDL/AsyncUPStructural/xst"
+elaborate
+-ifn JK_FF.prj
+-ifmt mixed

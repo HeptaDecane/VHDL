@@ -1,0 +1,26 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/near/VHDL/AsyncUPStructural/TEST_ASYNC_UP_isim_beh.exe -prj /home/near/VHDL/AsyncUPStructural/TEST_ASYNC_UP_beh.prj work.TEST_ASYNC_UP 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/near/VHDL/AsyncUPStructural/JK_FF.vhd" into library work
+Parsing VHDL file "/home/near/VHDL/AsyncUPStructural/ASYNC_UP.vhd" into library work
+WARNING:HDLCompiler:946 - "/home/near/VHDL/AsyncUPStructural/ASYNC_UP.vhd" Line 44: Actual for formal port clock is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "/home/near/VHDL/AsyncUPStructural/ASYNC_UP.vhd" Line 45: Actual for formal port clock is neither a static name nor a globally static expression
+Parsing VHDL file "/home/near/VHDL/AsyncUPStructural/TEST_ASYNC_UP.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95952 KB
+Fuse CPU Usage: 1050 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity JK_FF [jk_ff_default]
+Compiling architecture structural of entity ASYNC_UP [async_up_default]
+Compiling architecture behavior of entity test_async_up
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable /home/near/VHDL/AsyncUPStructural/TEST_ASYNC_UP_isim_beh.exe
+Fuse Memory Usage: 1185920 KB
+Fuse CPU Usage: 1070 ms
+GCC CPU Usage: 260 ms
